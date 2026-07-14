@@ -1,0 +1,82 @@
+{
+  "devices": [
+    {
+      "name": "AED7000",
+      "type": "aed",
+      "display": false,
+      "costLevel": 1,
+      "proLevel": 2,
+      "image": "AED7000.jpg",
+      "description": "A legköltséghatékonyabb, legmodernebb választás laikus környezetbe (irodák, iskolák). Folyamatos önteszt, világos magyar hangutasítás.",
+      "specs": {
+        "weight": "2.0 kg",
+        "ip": "IP54 (Por és fröccsenő víz ellen)",
+        "battery": "5 év készenlét / 120 sokk",
+        "display": "Nincs (LED piktogramok)",
+        "pacing": "Nem"
+      }
+    },
+    {
+      "name": "Lifepak 1000",
+      "type": "aed",
+      "display": true,
+      "costLevel": 4,
+      "proLevel": 4,
+      "image": "Lifepak 1000.jpg",
+      "description": "Prémium kategóriás, képernyővel ellátott készülék. Megbízható választás intenzívebb közösségi vagy rendvédelmi használatra is.",
+      "specs": {
+        "weight": "3.2 kg",
+        "ip": "IP55 (Fokozott védelem)",
+        "battery": "5 év készenlét / 440 sokk",
+        "display": "Nagy felbontású LCD",
+        "pacing": "Opcionális"
+      }
+    },
+    {
+      "name": "CardioAid-1",
+      "type": "monitor",
+      "display": true,
+      "hasPacing": true,
+      "hasSpO2": true,
+      "has12Lead": true,
+      "costLevel": 5,
+      "proLevel": 5,
+      "image": "CardioAid-1.jpg",
+      "description": "Klinikai szintű monitor-defibrillátor minden szükséges paraméterrel a sürgősségi és intenzív osztályos ellátáshoz.",
+      "specs": {
+        "weight": "6.5 kg",
+        "ip": "IP44 (Kórházi sztenderd)",
+        "battery": "4 óra folyamatos monitorozás",
+        "display": "7\" Színes TFT érintőkijelző",
+        "pacing": "Igen (Beépített)"
+      }
+    }
+  ],
+  "services": [
+    {
+      "name": "Helyszíni Betanítás és Oktatás",
+      "description": "Gyakorlati oktatás fantom babával, hogy vészhelyzetben a dolgozók magabiztosan cselekedjenek. Jogilag is igazolható munkavédelmi felkészítés.",
+      "image": "szolgaltatasok2.png"
+    },
+    {
+      "name": "Éves Karbantartási Szerződés",
+      "description": "Automata emlékeztetők, lejáratfigyelés, elektróda és akkumulátor csere. Garantáljuk, hogy készüléke az év minden napján bevethető.",
+      "image": "karbantartas_icon.png"
+    },
+    {
+      "name": "Fali Konzolok & Kabinok",
+      "description": "A készülék láthatóságáért és védelméért. Kültérre riasztóval és fűtéssel ellátott kabin elengedhetetlen a fagyás és a rongálás elleni védelemhez.",
+      "image": "kabin01.png"
+    },
+    {
+      "name": "Gyermek Elektródák",
+      "description": "Iskolákba, sportlétesítményekbe kritikus kiegészítő. Automatikusan csökkenti a leadott energiaszintet (Joule) a gyermekek biztonsága érdekében.",
+      "image": "gyermek_elektroda.png"
+    },
+    {
+      "name": "CPR Kezdőkészlet",
+      "description": "Ruhavágó olló, borotva, törlőkendő és izolációs maszk – minden, ami a higiénikus és gyors elektróda-felhelyezéshez kell vészhelyzetben.",
+      "image": "cpr_csomag.png"
+    }
+  ]
+}
